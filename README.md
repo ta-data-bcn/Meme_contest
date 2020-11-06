@@ -22,7 +22,7 @@ Vamos con las bases del concurso:
 - Los memes tienen que ser originales, es decir.... ¡¡Hechos por ti!!
 - Los memes pueden tener temática de código/data/cosas que han pasado en el bootcamp...
 
-### ¿Cómo se vota?
+### ¿Cómo se vota?
 
 - Hay que reaccionar con un 🚀, el meme con más 🚀 será el meme ganador.
 - Solo puedes poner 3 🚀 en total para realizar tus votos.
