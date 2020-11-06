@@ -1,4 +1,4 @@
-![portada]()
+![portada](https://github.com/agalvezcorell/concurso_de_memes/blob/main/portada.jpeg)
 
 # Concursazo de Memes Datamad1020 - Rev
 
