@@ -13,7 +13,7 @@ Pero...
 Sí, vamos a hacer un concurso de memes con premio especial para la persona ganadora...
 rrrrrreeeeeeeedooooobleeeeeeeeeeeee
 
-¡¡PINCHO DE TORTILLA!! (Con cebolla, obviamente, si no, no es tortilla).
+¡¡PINCHO DE TORTILLA!! (Con cebolla, obviamente, si no, no es tortilla) 🙃
 
 ### ¿Cómo participar?
 Vamos con las bases del concurso: 
