@@ -1,8 +1,8 @@
 ![portada](https://github.com/agalvezcorell/concurso_de_memes/blob/main/portada.jpeg)
 
-# Concursazo de Memes Datamad1020 - Rev
+# Concursazo de Memes Datamad0321
 
-¡¡Se viene una buena en Datamad1020!!
+¡¡Se viene una buena en Datamad0321!!
 
 #### ¿Sabes hacer memes? ¿Sabes lo que son?
 Pues si no sabes lo que es un meme a estas alturas, vas a saberlo de golpe....
