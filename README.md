@@ -1,46 +1,31 @@
+
+
 ![portada](https://github.com/agalvezcorell/concurso_de_memes/blob/main/portada.jpeg)
 
-# Concursazo de Memes Datamad0321
+# There's something great coming up at Ironhack Barcelona!
 
-¡¡Se viene una buena en Datamad0321!!
+## Do you know how to make memes? Do you know what they are? 
+If you don't know what a meme is by now, you'll learn all about it. But...
 
-#### ¿Sabes hacer memes? ¿Sabes lo que son?
-Pues si no sabes lo que es un meme a estas alturas, vas a saberlo de golpe....
-Pero...
+#### What's this about? Have you all gone crazy?
+Yes, we're going to have a meme contest with a special prize for the winner...
 
-#### ¿De qué va esto? ¿Os habéis vuelto locas?
+## How to participate?
+Let's go over the rules of the contest:
 
-Sí, vamos a hacer un concurso de memes con premio especial para la persona ganadora...
-rrrrrreeeeeeeedooooobleeeeeeeeeeeee
+You can submit 3 memes.
+The memes must be original, meaning... made by you!
+The memes can be related to code/data/things that have happened in the bootcamp.
 
-¡¡PINCHO DE TORTILLA!! (Con cebolla, obviamente, si no, no es tortilla) 🙃
-
-### ¿Cómo participar?
-Vamos con las bases del concurso: 
-
-- Puedes presentar 3 memes
-- Los memes tienen que ser originales, es decir.... ¡¡Hechos por ti!!
-- Los memes pueden tener temática de código/data/cosas que han pasado en el bootcamp...
-
-### ¿Cómo se vota?
-
-- Hay que reaccionar con un 🚀, el meme con más 🚀 será el meme ganador.
-- Solo puedes poner 3 🚀 en total para realizar tus votos.
-- El resto de reacciones son ilimitadas
-- Habrá mención especial al meme con más reacciones
-
-### ¿Cómo hago un meme?
-
-Ay, pues.... ¡¡búscalo en google!!
+##How do you vote?
+You have to react with a 🚀, the meme with the most 🚀 will be the winning meme.
+You can only put a total of 3 🚀 for your votes.
+The rest of the reactions are unlimited.
+There will be a special mention for the meme with the most reactions.
 
 
-### Enlaces de interés
+##Useful links
+Here are a couple of pages where you can make memes...
 
-Aquí dejamos un par de páginas donde podéis hacer memes...
-
-- https://imgflip.com/user-images/flipmeme
-- https://www.memegenerator.es/
-
-
-
-
+https://imgflip.com/user-images/flipmeme
+https://www.memegenerator.es/
